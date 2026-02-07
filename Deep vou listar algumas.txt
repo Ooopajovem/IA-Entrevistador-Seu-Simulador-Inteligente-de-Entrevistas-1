@@ -1,0 +1,62 @@
+Deep, vou listar algumas coisas que eu gosto de fazer e queria que você desse uma organizada nisso.
+
+Sou uma pessoa que escuta bem, o pessoal costuma dizer que sou muito educado. Tenho facilidade para mexer com celular — sempre dou um jeitinho nos telefones dos meus parentes 😅.
+
+Tenho alguns conhecimentos em Python, JavaScript, Java e SQL. Não curto muito programação web, mas sei o básico sobre o assunto.
+
+Sei montar móveis, andar de bicicleta, fazer algumas comidas e sou uma pessoa bem paciente.
+
+Claro! Vamos organizar suas informações de forma mais clara e categorizada, destacando seus pontos fortes, habilidades e preferências. Ficou assim:
+
+PERFIL PESSOAL / SOFT SKILLS
+Ouvinte atento e paciente
+
+Educado e atencioso com as pessoas
+
+Paciente para resolver problemas e ensinar
+
+HABILIDADES TÉCNICAS / CONHECIMENTOS
+💻 Programação e Tecnologia
+Python (conhecimento)
+
+Java (conhecimento)
+
+JavaScript (Java srict) – provavelmente JavaScript
+
+SQL (conhecimento)
+
+Programação Web (noções, mas não é sua preferência)
+
+Manutenção básica de celulares – ajuda familiar com "jeitinhos" em dispositivos
+
+HABILIDADES MANUAIS / PRÁTICAS
+Montagem e reparo de móveis
+
+Culinária (prepara algumas comidas)
+
+Manutenção básica e uso de bicicleta
+
+ATIVIDADES QUE VOCÊ GOSTA / PREFERE
+Andar de bicicleta
+
+Cozinhar
+
+Ajudar parentes com conserto de celulares
+
+Trabalhar com montagem (móveis)
+
+Programação (exceto web, se possível)
+
+PONTOS DE ATENÇÃO (o que você não gosta tanto)
+Desenvolvimento web não é sua área preferida
+
+SUGESTÕES DE APROVEITAMENTO
+Unir programação com habilidades manuais (ex.: automação com Python para pequenas tarefas, projetos com Arduino).
+
+Atuar como suporte técnico informal para familiares e amigos.
+
+Explorar áreas como análise de dados (SQL + Python) ou aplicações desktop (Java).
+
+Considerar hobbies como oficina de reparos ou culinária como atividades relaxantes.
+
+
